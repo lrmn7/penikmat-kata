@@ -1,8 +1,8 @@
-# 👨‍🚀 Astro - Portfolio Template
+# 👨‍🚀 Blog - Penikmat Kata
 
-![Template](https://github.com/MaeWolff/astro-portfolio-template/blob/main/public/opengraph-image.jpg)
+![Template](https://res.cloudinary.com/lrmn/image/upload/v1686777484/og-istirahatsejenak_oh1tj0.png)
 
-This theme/template is designed and crafted by [me](https://www.maxencewolff.com).
+This theme/template is designed and crafted by (https://www.maxencewolff.com).
 NB: Additional color themes can also be configured on the `src/data/theme.ts` file.
 
 ## 🥷 Usage

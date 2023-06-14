@@ -6,7 +6,7 @@ slug: "Kamu-hilang-dari-hidup-aku"
 isPublish: true
 ---
 
-![Deskripsi Gambar](/public/mawar.png)
+![Deskripsi Gambar](https://res.cloudinary.com/lrmn/image/upload/v1686754659/mawar_kqcjsh.png)
 
 Mungkin kalau kamu baca ini kamu mengira bahwa kamu sudah tergantikan.
 Dari sekian lama bulan yang aku jalani, 

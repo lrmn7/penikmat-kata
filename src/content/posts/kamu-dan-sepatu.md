@@ -6,7 +6,7 @@ slug: "kamu-dan-sepatu"
 isPublish: true
 ---
 
-![Deskripsi Gambar](/public/mawar.png)
+![Deskripsi Gambar](https://res.cloudinary.com/lrmn/image/upload/v1686754659/mawar_kqcjsh.png)
 
 _Mengikat sepatu tidak pernah mudah bagiku  
 itu sebelum kau mengajariku dengan telaten,  
